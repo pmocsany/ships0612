@@ -1,7 +1,17 @@
 
+/*
+File: style.css
+//Author: Mócsány Petra
+//Copyright: 2023, Mócsány Petra
+//Group: Szoft/I/E/2
+//Date: 2023-06-12
+//Github: https://github.com/pmocsany/
+//Licenc: GNU GPL
+*/
+
 
 footer {
     text-align: center;
-    color: beige;
+    color: blue;
     font-size: 18px;
 }
